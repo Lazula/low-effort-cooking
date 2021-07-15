@@ -4,6 +4,9 @@ With only two necessary ingredients, these biscuits are an excellent way to
 start baking with no prior experience. The dough can be handled with your bare
 hands or with a spatula.
 
+This recipe is very flexible, and can easily be made more savory or sweet with
+additional ingredients.
+
 ## Ingredients
 
 * 1 1/2 cup self-rising flour
@@ -28,10 +31,9 @@ The flour **must** be self-rising. All-purpose flour will **not** work.
 2. Add flour and cream to bowl. Add any additional powder ingredients before
    mixing.
 3. Mix into dough. If the dough does not come together, add more cream. If the
-   dough is very wet, add more flour.
-4. (Optional) Add any additional solid ingredients.
-5. Place baking parchment on a pan. Scoop the dough into balls of the desired
-   size. If desired, brush the tops with cream or melted butter.
+   dough is very wet, add more flour. Add any additional solid ingredients now.
+5. Place baking parchment on a pan. Scoop the dough into balls onto the
+   parchment. If desired, brush the tops with cream or melted butter.
 6. Bake for 10 minutes.
 7. Add any desired toppings such as honey or jam.
 
