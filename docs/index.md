@@ -60,6 +60,7 @@ Here for the first time? [Start Here](/content/notes/start_here.md).
 * [Flour and Cream Biscuits](/content/recipes/flour-and-cream-biscuits.md)
 * [Bowl Cookie](/content/recipes/bowl-cookie.md)
 * [Mug Brownie](/content/recipes/mug-brownie.md)
+* [Rice Pudding](/content/recipes/rice-pudding.md)
 * [Milk Pudding](/content/recipes/milk-pudding.md)
 * [Black Tea](/content/recipes/black-tea.md)
 * [Coffee](/content/recipes/coffee.md)
